@@ -1,0 +1,2 @@
+rootProject.name='AgendaDigital'
+include ':app'
